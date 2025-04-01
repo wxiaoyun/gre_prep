@@ -1,0 +1,9 @@
+[submodule "practice_01"]
+	path = practice_01
+	url = https://github.com/haohww/GRE.git
+[submodule "all_in_one"]
+	path = all_in_one
+	url = https://github.com/RuiWang6188/GRE-All-In-One.git
+[submodule "practice_02"]
+	path = practice_02
+	url = https://github.com/GeekEast/GRE.git
